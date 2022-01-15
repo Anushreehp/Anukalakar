@@ -1,0 +1,183 @@
+{
+    "regularTuitions": {
+        "title": "Regular Tuitions",
+        "subTile": "Learn year long on monthly basis",
+        "data": [
+            {
+                "CBSE": [
+                    {
+                        "6": "https://www.vedantu.com/tracks/courseinfo/5c41eb21e4b0e77a5b98b6a7"
+                    },
+                    {
+                        "7": "https://www.vedantu.com/tracks/courseinfo/5c41eacbe4b083f09c285308"
+                    },
+                    {
+                        "8": "https://www.vedantu.com/tracks/courseinfo/5c41ebbbe4b0a833bbfc9c46"
+                    },
+                    {
+                        "9": "https://www.vedantu.com/tracks/courseinfo/5c41eb3de4b0e77a5b98b6a8"
+                    },
+                    {
+                        "10": "https://www.vedantu.com/tracks/courseinfo/5c41ec2ce4b0a833bbfc9c47"
+                    }
+                ],
+                "ICSE": [
+                    {
+                        "9": "https://www.vedantu.com/courses?grade=9&target=icse"
+                    },
+                    {
+                        "10": "https://www.vedantu.com/courses?grade=10&target=icse"
+                    }
+                ]
+            }
+        ]
+    },
+    "getAheadCourses": {
+        "title": "Get Ahead Courses",
+        "subTile": "Complete your syllabus during summer holidays",
+        "data": [
+            {
+                "CBSE": [
+                    {
+                        "6": "http://courses.vedantu.com/infopage-gacourse-cbse6-9/"
+                    },
+                    {
+                        "7": "http://courses.vedantu.com/infopage-gacourse-cbse6-9/"
+                    },
+                    {
+                        "8": "http://courses.vedantu.com/infopage-gacourse-cbse6-9/"
+                    },
+                    {
+                        "9": "http://courses.vedantu.com/infopage-gacourse-cbse6-9/"
+                    }
+                ],
+                "ICSE": [
+                    {
+                        "6": "http://courses.vedantu.com/infopage-gacourse-icse6-9/"
+                    },
+                    {
+                        "7": "http://courses.vedantu.com/infopage-gacourse-icse6-9/"
+                    },
+                    {
+                        "8": "http://courses.vedantu.com/infopage-gacourse-icse6-9/"
+                    },
+                    {
+                        "9": "http://courses.vedantu.com/infopage-gacourse-icse6-9/"
+                    }
+                ]
+            }
+        ]
+    },
+    "KVPY": {
+        "title": "KVPY Crash Course",
+        "subTile": "Covers the full KVPY course, focusing on maximizing your score",
+        "data": [
+            [
+                {
+                    "11": "https://courses.vedantu.com/kvpy-crash-course/"
+                },
+                {
+                    "12": "https://courses.vedantu.com/kvpy-crash-course/"
+                }
+            ]
+        ]
+    },
+    "JEECRASH": {
+        "title": "JEE Crash Course",
+        "subTile": "Covers the full JEE syllabus, focusing on cracking JEE in 10 weeks",
+        "data": [
+            [
+                {
+                    "12": "https://www.vedantu.com/jeecrash/home"
+                },
+                {
+                    "13": "https://www.vedantu.com/jeecrash/home"
+                }
+            ]
+        ]
+    },
+    "JEE": {
+        "title": "JEE (Main & Advanced)",
+        "subTile": "Long term course to prepare for JEE & Boards, in a balanced way",
+        "data": [
+            [
+                {
+                    "11": "https://www.vedantu.com/tracks/courseinfo/5c487f43e4b00258f1568d6f"
+                },
+                {
+                    "12": "https://www.vedantu.com/tracks/courseinfo/5c41ebc5e4b083f09c28530a"
+                },
+                {
+                    "13": "https://courses.vedantu.com/iit-jee-droppers-longterm-course-direct/"
+                }
+            ]
+        ]
+    },
+    "MathScience": {
+        "title": "Math + Science One Year Course",
+        "subTile": "Study the entire Math & Science syllabus to score high in exams",
+        "data": [
+            {
+                "CBSE": [
+                    {
+                        "9": "https://www.vedantu.com/tracks/courseinfo/5c41eb3de4b0e77a5b98b6a8"
+                    },
+                    {
+                        "10": "https://www.vedantu.com/tracks/courseinfo/5c41ec2ce4b0a833bbfc9c47"
+                    }
+                ],
+                "ICSE": [
+                    {
+                        "10": "https://courses.vedantu.com/icse-workshop-for-parents/?"
+                    }
+                ]
+            }
+        ]
+    },
+    "JEERankBooster": {
+        "title": "JEE Rank Booster",
+        "subTile": "Boost up your rank in JEE Main & Advanced with the help of Video Lectures, 24x7 Doubt Solving & Test Series",
+        "data": [
+            [
+                {
+                    "11": "https://www.vedantu.com/aio/5cb8e22ee4b03272d685fe34"
+                },
+                {
+                    "12": "https://www.vedantu.com/aio/5cb8e32de4b031e620c73b59 "
+                }
+            ]
+        ]
+    },
+    "NEETRankBooster": {
+        "title": "NEET Rank Booster",
+        "subTile": "Boost up your rank in NEET with the help of Video Lectures, 24x7 Doubt Solving & Test Series",
+        "data": [
+            [
+                {
+                    "11": "https://www.vedantu.com/aio/5cb8e0c4e4b03272d685fe33"
+                },
+                {
+                    "12": "https://www.vedantu.com/aio/5cb8e2eae4b03272d685fe35"
+                }
+            ]
+        ]
+    },
+    "NEET": {
+        "title": "NEET",
+        "subTile": "Long term courses to prepare for NEET and Boards, in a balanced way",
+        "data": [
+            [
+                {
+                    "11": "https://www.vedantu.com/tracks/courseinfo/5c487fc3e4b00258f1568d71"
+                },
+                {
+                    "12": "https://www.vedantu.com/tracks/courseinfo/5c41ecf2e4b083f09c28530d"
+                },
+                {
+                    "13": "https://courses.vedantu.com/neet-droppers-longterm-course-direct/"
+                }
+
+            ]
+        ]
+    }
+}
